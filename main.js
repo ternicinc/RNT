@@ -2,7 +2,9 @@ const path = require("path");
 const fs = require("fs");
 
 // Custom Imports
-// const ipManager = require("ipManager.js");
+const IpManager = require("./modules/ip_manager")
+
+const manager = new IpManager();
 
 function main() {
     try {
