@@ -21,6 +21,7 @@ function main() {
 
     }
     catch {
+        //TODO: Add proper error logging.
         console.log("ERROR")
     }
 }
