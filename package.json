@@ -1,0 +1,23 @@
+{
+  "name": "sfp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ternicinc/RNT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ternicinc/RNT/issues"
+  },
+  "homepage": "https://github.com/ternicinc/RNT#readme",
+  "description": "",
+  "dependencies": {
+    "ip": "^2.0.1"
+  }
+}
